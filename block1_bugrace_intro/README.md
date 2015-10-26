@@ -187,7 +187,26 @@ Något saknas! När vill du att datorn ska känna av om skalbaggen nuddar det gr
 
 Grattis, nu har du skapat ett spel! Det färdiga skriptet i sin helhet borde se ut så här:
 
-![image alt text](image_18.png)
+```blocks
+när ⚑ klickas på
+peka i (90 v) riktning
+gå till x:(-45) y:(115)
+för alltid
+	gå (3) steg
+	om <rör färgen [#4A7023]> då
+		säg [Game Over] i (2) sekunder
+	stoppa [detta skript v]
+```
+
+```blocks
+när [högerpil v] trycks ned
+vänd ↻ (5) grader
+```
+
+```blocks
+när [vänsterpil v] trycks ned
+vänd ↺ (5) grader
+```
 
 Glöm inte att **spara ditt projekt**!
 Döp det t ex till _"Bug Race"_ och ditt namn.
