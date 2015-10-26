@@ -146,7 +146,14 @@ Om du trycker på START igen märker du att skalbaggen behåller den riktning so
 
 12. Välj blocket som säger **"peka i 90 riktning"** från **RÖRELSE**. Testa vad som händer om du ändrar på värdet från 90 grader till något annat. Det står även en hjälptext i rullistan när du väljer riktning.
 
-  ![image alt text](image_16.png)
+```blocks
+när ⚑ klickas på
+peka i (90 v) riktning
+gå till x:(-45) y:(115)
+för alltid
+	gå (3) steg
+
+```
 
 
 ## Delmoment 7: Känna av gräset
