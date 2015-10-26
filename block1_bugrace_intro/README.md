@@ -84,7 +84,7 @@ Det första du ska göra är att se till att skalbaggen rör sig när du trycker
 
 > "När jag trycker på START, ska skalbaggen röra sig."
 
-7. Dra ut ett block för **HÄNDELSER**: **"när START (flaggan) klickas på" **till skriptytan.  Under den kopplar du fast blocket för **RÖRELSE**: **"gå 10 steg"**.
+7. Dra ut ett block för **HÄNDELSER**: "när START (flaggan) klickas på" till skriptytan.  Under den kopplar du fast blocket för **RÖRELSE**: **"gå 10 steg"**.
 
   ![image alt text](image_11.png)
 
