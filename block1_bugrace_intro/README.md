@@ -6,13 +6,9 @@ Ett exempel på det färdiga spelet finns på: [scratch.mit.edu/projects/2769702
 ## Kom igång med Scratch
 
 * Skapa ett **eget konto** på Scratch: [http://scratch.mit.edu/](http://scratch.mit.edu/)
-
   Skriv ned ditt användarnamn och lösenord så att du inte glömmer det!
-
 * Tryck på **Skapa** på hemsidan för ett skapa ett nytt projekt
-
 * Om språket inte är svenska, tryck på **jordklotet** och scrolla ner tills du hittar **Svenska**.
-
   ![image alt text](image_0.png)
 
 
