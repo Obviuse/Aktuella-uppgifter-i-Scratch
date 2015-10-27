@@ -128,13 +128,13 @@ Nästa steg blir att göra det möjligt att styra skalbaggen! För det behöver 
 11. Koppla fast ett skript under varje block; under **RÖRELSE** hittar du ett som säger **"vänd (pil vänster) 15 grader"** och ett som säger **"vänd (pil höger) 15 grader"**.
 
 
-```blocks
-när [högerpil v] trycks ned
-vänd ↻ (15) grader
+  ```blocks
+    när [högerpil v] trycks ned
+    vänd ↻ (15) grader
 
-när [vänsterpil v]trycks ned
-vänd ↺ (15) grader
-``` 
+    när [vänsterpil v]trycks ned
+    vänd ↺ (15) grader
+  ``` 
 
 Testa vad som händer nu när du trycker på START. Du kan styra skalbaggen åt båda hållen med piltangenterna!
 
