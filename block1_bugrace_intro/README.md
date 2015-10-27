@@ -49,7 +49,6 @@ Du ska nu få rita en grå bana på grönt gräs som skalbaggen kan springa på.
 ![image alt text](image_8a.png)
 6. Tryck på PENSEL och välj en grå färg. Gör penseln större genom att dra reglaget ända till höger. Rita nu en oval (utdragen cirkel) - gör den så stor som du kan!  
 ![image alt text](image_8.png)	![image alt text](image_9.png)  
-   
 Ungefär så här skall banan se ut. Om spåret är väldigt smalt kommer spelet bli väldigt svårt. Är banan bred blir spelet lättare!  
 ![image alt text](image_10.png)
 
