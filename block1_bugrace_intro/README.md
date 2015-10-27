@@ -11,22 +11,16 @@ Ett exempel på det färdiga spelet finns på: [scratch.mit.edu/projects/2769702
 * Om språket inte är svenska, tryck på **jordklotet** och scrolla ner tills du hittar **Svenska**.  
 ![image alt text](image_0.png)
 
-
 Så här ser din arbetsyta i Scratch ut:
 
 ![image alt text](image_1.png)
 
 1. Här är din vita bakgrund som också kallas för **scen**.
-
 2. Här kan du se vilka **sprajter** du använder.
-
 3. I kolumnen i mitten plockar du ditt **skript**. Det är skript-block som finns i olika kategorier. Förutom skript finns flikar för **klädslar** och **ljud**.
-
 4. Kolumnen till höger är din **skriptyta** – där du kodar genom att lägga dina skript.
 Om du vill ta bort ett block drar du bara tillbaka blocket till mittkolumnen igen.
-
 5. Här är en **Hjälp**-kolumn om du behöver, den kan du klicka bort uppe i det vänstra hörnet.**
-
 
 ## Delmoment 1: Välja en skalbagge som sprajt
 
@@ -34,7 +28,6 @@ I ditt nya projekt visas en katt som enda sprajt på vit bakgrund. Du får börj
 
 1. Tryck på saxen (högt uppe i mitten) och sedan på katten så försvinner den.  
 ![image alt text](image_2.png)
-
 2. Nu vill du lägga till en skalbagge istället. Tryck på knappen för NY SPRAJT:  
 ![image alt text](image_3.png)
 
