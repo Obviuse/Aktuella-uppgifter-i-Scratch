@@ -136,8 +136,6 @@ när [vänsterpil v]trycks ned
 vänd ↺ (15) grader
 ``` 
 
-12. TESTAR
-
 Testa vad som händer nu när du trycker på START. Du kan styra skalbaggen åt båda hållen med piltangenterna!
 
 
