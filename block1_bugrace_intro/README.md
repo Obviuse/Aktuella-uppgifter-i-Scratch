@@ -38,7 +38,7 @@ I ditt nya projekt visas en katt som enda sprajt på vit bakgrund. Du får börj
 
 1. Tryck på saxen (högt uppe i mitten) och sedan på katten så försvinner den.
 
-    ![image alt text](image_2.png)
+![image alt text](image_2.png)
 
 2. Nu vill du lägga till en skalbagge istället. Tryck på knappen för NY SPRAJT:
 ![image alt text](image_3.png)
