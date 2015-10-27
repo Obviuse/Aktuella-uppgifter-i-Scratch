@@ -45,17 +45,13 @@ Du ska nu få rita en grå bana på grönt gräs som skalbaggen kan springa på.
 
 4. För att ändra bakgrunden trycker du först på SCEN längst till vänster och sedan på fliken BAKGRUNDER högst upp i mitten.  
 ![image alt text](image_6.png)	![image alt text](image_7.png)
-
 5. Tryck på FYLL MED FÄRG (målarburken). Välj en grön färg och tryck på den vita bakgrunden, då fylls den med den valda gröna färgen.
   ![image alt text](image_8a.png)
-
-6. Tryck på PENSEL och välj en grå färg. Gör penseln större genom att dra reglaget ända till höger. Rita nu en oval (utdragen cirkel) - gör den så stor som du kan!
-
-  ![image alt text](image_8.png)	![image alt text](image_9.png)
-
-  Ungefär så här skall banan se ut. Om spåret är väldigt smalt kommer spelet bli väldigt svårt. Är banan bred blir spelet lättare!
-
-  ![image alt text](image_10.png)
+6. Tryck på PENSEL och välj en grå färg. Gör penseln större genom att dra reglaget ända till höger. Rita nu en oval (utdragen cirkel) - gör den så stor som du kan!  
+![image alt text](image_8.png)	![image alt text](image_9.png)  
+  
+Ungefär så här skall banan se ut. Om spåret är väldigt smalt kommer spelet bli väldigt svårt. Är banan bred blir spelet lättare!  
+![image alt text](image_10.png)
 
 
 ## Delmoment 3: Ditt första skript
