@@ -56,9 +56,8 @@ Nu är skalbaggen klar och det är dags att måla banan som skalbaggen skall spr
 
 Du ska nu få rita en grå bana på grönt gräs som skalbaggen kan springa på.
 
-4. För att ändra bakgrunden trycker du först på SCEN längst till vänster och sedan på fliken BAKGRUNDER högst upp i mitten.
-
-  ![image alt text](image_6.png)	![image alt text](image_7.png)
+4. För att ändra bakgrunden trycker du först på SCEN längst till vänster och sedan på fliken BAKGRUNDER högst upp i mitten.  
+![image alt text](image_6.png)	![image alt text](image_7.png)
 
 5. Tryck på FYLL MED FÄRG (målarburken). Välj en grön färg och tryck på den vita bakgrunden, då fylls den med den valda gröna färgen.
   ![image alt text](image_8a.png)
