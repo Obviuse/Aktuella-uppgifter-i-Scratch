@@ -1,7 +1,7 @@
 # Bug Race (intro)
 
 Nu ska du få lära känna Scratch och samtidigt skapa ett roligt spel som är enkelt även om du aldrig har jobbat med Scratch tidigare. Målet är att få en skalbagge att springa runt en bana och försöka undvika att hamna utanför banan genom att styra med vänster- och högerpil på tangentbordet.
-Ett exempel på det färdiga spelet finns på: [https://scratch.mit.edu/projects/27697024/](https://scratch.mit.edu/projects/27697024/)
+Ett exempel på det färdiga spelet finns på: [https://scratch.mit.edu/projects/27697024/](scratch.mit.edu/projects/27697024/)
 
 ## Kom igång med Scratch
 
@@ -126,13 +126,14 @@ Nästa steg blir att göra det möjligt att styra skalbaggen! För det behöver 
 10. Under **HÄNDELSER** finns ett block som säger **"när mellanslag trycks ned"**. Dra två sådana block och lägg var som helst på skriptytan. Ändra den ena till **vänsterpil** och den andra till **högerpil**, du väljer i rullistan.
 
 11. Koppla fast ett skript under varje block; under **RÖRELSE** hittar du ett som säger **"vänd (pil vänster) 15 grader"** och ett som säger **"vänd (pil höger) 15 grader"**.
-    ```blocks
-    när [högerpil v] trycks ned
-    vänd ↻ (15) grader
 
-    när [vänsterpil v]trycks ned
-    vänd ↺ (15) grader
-    ``` 
+  ```blocks
+  när [högerpil v] trycks ned
+  vänd ↻ (15) grader
+
+  när [vänsterpil v]trycks ned
+  vänd ↺ (15) grader
+  ``` 
 
 Testa vad som händer nu när du trycker på START. Du kan styra skalbaggen åt båda hållen med piltangenterna!
 
