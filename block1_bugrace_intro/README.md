@@ -125,14 +125,10 @@ Nästa steg blir att göra det möjligt att styra skalbaggen! För det behöver 
 
 10. Under **HÄNDELSER** finns ett block som säger **"när mellanslag trycks ned"**. Dra två sådana block och lägg var som helst på skriptytan. Ändra den ena till **vänsterpil** och den andra till **högerpil**, du väljer i rullistan.
 
-11. Koppla fast ett skript under varje block; under **RÖRELSE** hittar du ett som säger **"vänd (pil vänster) 15 grader"** och ett som säger **"vänd (pil höger) 15 grader"**.
-
-```blocks
+11. Koppla fast ett skript under varje block; under **RÖRELSE** hittar du ett som säger **"vänd (pil vänster) 15 grader"** och ett som säger **"vänd (pil höger) 15 grader"**.```blocks
 när [högerpil v] trycks ned
 vänd ↻ (15) grader
-```
-
-```blocks
+``` ```blocks
 när [vänsterpil v] trycks ned
 vänd ↺ (15) grader
 ```
