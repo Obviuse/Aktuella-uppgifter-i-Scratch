@@ -11,8 +11,7 @@ Skriv ned ditt användarnamn och lösenord så att du inte glömmer det!
 * Om språket inte är svenska, tryck på **jordklotet** och scrolla ner tills du hittar **Svenska**.   
 ![image alt text](image_0.png)
 
-Så här ser din arbetsyta i Scratch ut:
-
+Så här ser din arbetsyta i Scratch ut:  
 ![image alt text](image_1.png)
 
 1. Här är din vita bakgrund som också kallas för **scen**.
