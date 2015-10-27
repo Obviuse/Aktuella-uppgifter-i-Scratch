@@ -37,6 +37,7 @@ Om du vill ta bort ett block drar du bara tillbaka blocket till mittkolumnen ige
 I ditt nya projekt visas en katt som enda sprajt på vit bakgrund. Du får börja med att ta bort katten och välja en ny sprajt.
 
 1. Tryck på saxen (högt uppe i mitten) och sedan på katten så försvinner den.
+
     ![image alt text](image_2.png)
 
 2. Nu vill du lägga till en skalbagge istället. Tryck på knappen för NY SPRAJT:
