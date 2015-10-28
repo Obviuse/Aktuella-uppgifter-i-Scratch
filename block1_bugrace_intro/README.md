@@ -176,7 +176,7 @@ vänd ↺ (5) grader
 Glöm inte att **spara ditt projekt**!
 Döp det t ex till _"Bug Race"_ och ditt namn.
 
-Tryck på DELA för att andra ska kunna hitta spelet på Scratch. Gå ut till projektsidan och låt någon annan **testa spelet!**
+Tryck på DELA för att andra ska kunna hitta spelet på Scratch. Gå ut till projektsidan och låt någon annan testa spelet!
 
 ![image alt text](image_19.jpg)
 
