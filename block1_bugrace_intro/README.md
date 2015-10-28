@@ -64,17 +64,12 @@ Det första du ska göra är att se till att skalbaggen rör sig när du trycker
 
 > "När jag trycker på START, ska skalbaggen röra sig."
 
-7. Dra ut ett block för **HÄNDELSER**: "när START (flaggan) klickas på" till skriptytan.  Under den kopplar du fast blocket för **RÖRELSE**: **"gå 10 steg"**.
-
-  ![image alt text](image_11.png)
-
-  _Tryck först på Händelser och dra sedan ut "när START klickas på" till fönstret till höger._
-
-  ![image alt text](image_12.png)
-
-  _Tryck på Rörelse och dra sedan ut "gå 10 steg" och placera den som på bilden._
-
-  Testa nu vad som händer när du trycker på START. Skalbaggen flyttar sig åt höger! Det är bra, men du vill ju att skalbaggen skall röra sig framåt hela tiden. Hur gör du det?
+7. Dra ut ett block för **HÄNDELSER**: "när START (flaggan) klickas på" till skriptytan.  Under den kopplar du fast blocket för **RÖRELSE**: **"gå 10 steg"**.  
+![image alt text](image_11.png)
+_Tryck först på Händelser och dra sedan ut "när START klickas på" till fönstret till höger._  
+![image alt text](image_12.png)
+_Tryck på Rörelse och dra sedan ut "gå 10 steg" och placera den som på bilden._
+Testa nu vad som händer när du trycker på START. Skalbaggen flyttar sig åt höger! Det är bra, men du vill ju att skalbaggen skall röra sig framåt hela tiden. Hur gör du det?
 
 8. Det kan du ordna med skriptet **"för alltid"** som finns under rubriken **KONTROLL**.
 Det här är en LOOP som gör att sprajten fortsätter röra sig så länge programmet är igång.
