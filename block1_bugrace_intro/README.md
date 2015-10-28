@@ -72,13 +72,11 @@ _Tryck på Rörelse och dra sedan ut "gå 10 steg" och placera den som på bilde
 Testa nu vad som händer när du trycker på START. Skalbaggen flyttar sig åt höger! Det är bra, men du vill ju att skalbaggen skall röra sig framåt hela tiden. Hur gör du det?
 
 8. Det kan du ordna med skriptet **"för alltid"** som finns under rubriken **KONTROLL**.
-Det här är en LOOP som gör att sprajten fortsätter röra sig så länge programmet är igång.
+Det här är en LOOP som gör att sprajten fortsätter röra sig så länge programmet är igång.  
+![image alt text](image_13.png)  
+_För att skalbaggen ska fortsätta att gå måste du lägga "gå 10 steg" i mitten av "för alltid"-loopen. "Gå 10 steg" kommer då att upprepas för alltid._
 
-  ![image alt text](image_13.png)
-
-  _För att skalbaggen ska fortsätta att gå måste du lägga "gå 10 steg" i mitten av "för alltid"-loopen. "Gå 10 steg" kommer då att upprepas för alltid._
-
-Testa att trycka på START. Nu blir det fart på skalbaggen! Prova vad som händer om du ändrar antalet steg till en lägre siffra. Välj en hastighet som du tror är lagom för att kunna styra skalbaggen.
+Testa att trycka på **START**. Nu blir det fart på skalbaggen! Prova vad som händer om du ändrar antalet steg till en lägre siffra. Välj en hastighet som du tror är lagom för att kunna styra skalbaggen.
 
 
 ## Delmoment 4: Sätt en Startposition
