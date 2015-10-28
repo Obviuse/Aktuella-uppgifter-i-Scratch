@@ -48,7 +48,8 @@ Du ska nu få rita en grå bana på grönt gräs som skalbaggen kan springa på.
 5. Tryck på FYLL MED FÄRG (målarburken). Välj en grön färg och tryck på den vita bakgrunden, då fylls den med den valda gröna färgen.  
 ![image alt text](image_8a.png)
 6. Tryck på PENSEL och välj en grå färg. Gör penseln större genom att dra reglaget ända till höger. Rita nu en oval (utdragen cirkel) - gör den så stor som du kan!  
-![image alt text](image_8.png) ![image alt text](image_9.png)  
+![image alt text](image_8.png) ![image alt text](image_9.png)
+
 Ungefär så här skall banan se ut. Om spåret är väldigt smalt kommer spelet bli väldigt svårt. Är banan bred blir spelet lättare!  
 ![image alt text](image_10.png)
 
@@ -70,7 +71,6 @@ _Tryck först på Händelser och dra sedan ut "när START klickas på" till fön
 ![image alt text](image_12.png)  
 _Tryck på Rörelse och dra sedan ut "gå 10 steg" och placera den som på bilden._
 Testa nu vad som händer när du trycker på START. Skalbaggen flyttar sig åt höger! Det är bra, men du vill ju att skalbaggen skall röra sig framåt hela tiden. Hur gör du det?
-
 8. Det kan du ordna med skriptet **"för alltid"** som finns under rubriken **KONTROLL**.
 Det här är en LOOP som gör att sprajten fortsätter röra sig så länge programmet är igång.  
 ![image alt text](image_13.png)  
@@ -86,8 +86,7 @@ För att slippa dra tillbaka skalbaggen varje gång du trycker på START kan du 
 Innan du gör ditt skript, flytta skalbaggen till en startposition som du väljer själv.
 
 9. Välj från **RÖRELSE** **"gå till x: y:"** och koppla fast direkt under flaggan, innan loopen. De värden som står för X och Y är KOORDINATER för den startposition som du har ställt skalbaggen på.  
-
-  ![image alt text](image_14.png)
+![image alt text](image_14.png)
 
 Nu kommer skalbaggen automatiskt att flyttas till sin startposition varje gång du trycker på flaggan, utan att du behöver dra den dit själv!
 
@@ -97,7 +96,6 @@ Nu kommer skalbaggen automatiskt att flyttas till sin startposition varje gång 
 Nästa steg blir att göra det möjligt att styra skalbaggen! För det behöver du två små skript. Ett som säger åt datorn att svänga höger på skalbaggen när du trycker ned höger piltangent, och ett annat som säger åt den att svänga vänster när du trycker ned vänster piltangent.
 
 10. Under **HÄNDELSER** finns ett block som säger **"när mellanslag trycks ned"**. Dra två sådana block och lägg var som helst på skriptytan. Ändra den ena till **vänsterpil** och den andra till **högerpil**, du väljer i rullistan.
-
 11. Koppla fast ett skript under varje block; under **RÖRELSE** hittar du ett som säger **"vänd (pil vänster) 15 grader"** och ett som säger **"vänd (pil höger) 15 grader"**.
 
   ```blocks
@@ -131,7 +129,6 @@ för alltid
 Nästa steg är att skapa ett skript som gör att skalbaggen känner av när den hamnar utanför din utmålade bana. Hur ska den kunna göra det? Det kan du lösa med ett skript som känner av vilken färg som skalbaggen rör sig över. Du behöver skapa ett VILLKOR för skalbaggen: OM skalbaggen rör vid färgen grön betyder det att den har åkt av banan, och DÅ ska spelet ta slut - Game Over!
 
 13. Välj blocket "**om <> då**" som finns under **KONTROLL**. Det här blocket säger att OM det som står i **<>** händer, DÅ ska något annat hända. Om skalbaggen rör färgen grön, säg Game Over!
-
 14. Under **KÄNNA AV** finns blocket "**Rör färgen <> ?"**. Dra den till **<>**, tryck på den lilla fyrkanten och sedan på ditt gräs. Den lilla fyrkanten får nu samma gröna färg som gräset.
 
 ```blocks
@@ -149,9 +146,7 @@ Testa ditt spel! Händer något när skalbaggen nuddar det gröna gräset? Om in
 Något saknas! När vill du att datorn ska känna av om skalbaggen nuddar det gröna gräset? Det behöver göras efter varje steg skalbaggen tar, för att inte missa att den hamnar utanför banan. Därför måste du slå ihop skriptet som känner av gräset med skriptet som får skalbaggen att röra sig.
 
 16. Lägg skriptet som känner av den gröna färgen, in i din "för alltid"-loop.
-
 17. Lägg till **"stoppa detta skript"**, under **KONTROLL**, om skalbaggen springer av banan. På så sätt avslutas spelet och det går inte längre att styra skalbaggen.
-
 
 ## Ett färdigt spel!
 
