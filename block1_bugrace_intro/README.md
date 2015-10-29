@@ -188,7 +188,7 @@ Det får du göra i nästa uppgift!
 				<strong>Visa lösning</strong>
 			</button>
 			<div style="height: 45px;">
-				<p>
+				<p> 
 ```blocks
 när [vänsterpil v] trycks ned
 vänd ↺ (5) grader
