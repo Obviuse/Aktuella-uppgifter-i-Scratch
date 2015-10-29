@@ -181,3 +181,13 @@ Tryck på DELA för att andra ska kunna hitta spelet på Scratch. Gå ut till pr
 Saknas något? Hur skulle du vilja utveckla spelet?
 
 Det får du göra i nästa uppgift!
+
+<div class="solutiontoggle">
+			<button class="icon arrow expand sibling minus">
+				<span></span>
+				<strong>Visa lösning</strong>
+			</button>
+			<div style="height: 45px;">
+				<p>Testing 1 2 3</p>
+			</div>
+</div>
