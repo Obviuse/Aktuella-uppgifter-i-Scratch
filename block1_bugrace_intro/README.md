@@ -28,8 +28,7 @@ I ditt nya projekt visas en katt som enda sprajt på vit bakgrund. Du får börj
 1. Tryck på saxen (högt uppe i mitten) och sedan på katten så försvinner den.  
 ![image alt text](image_2.png)
 2. Nu vill du lägga till en skalbagge istället. Tryck på knappen för NY SPRAJT:  
-![image alt text](image_3.png)
-
+![image alt text](image_3.png)  
 I menyn till vänster finns en kategori som heter "Djur", tryck på den. I listan hittar du skalbaggen. Tryck på skalbaggen så att den blir markerad och sedan på OK nere till höger.
 
 3. För att spelet ska bli enklare att spela måste vi minska storleken på skalbaggen. Tryck på förminskningsknappen och sedan på sprajten tills den är lagom stor (som en tummnagel ungefär).  
