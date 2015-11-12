@@ -29,13 +29,13 @@ Meningen med spelet är att styra rymdraketen åt vänster och höger för att s
 6. Ändra raketens **rotationsstil** så att den bara kan röra sig åt **vänster-höger**.
 
 7. Skapa ett skript som säger:  
-  * Starta när START klickas på
-  * För alltid:
-    * **Ändra x** med -13 **OM vänsterpil** är nedtryckt
-    * **Ändra x** med 13 **OM högerpil** är nedtryckt
-    * **Studsa vid kanten** efter den har rört sig, oavsett håll
+* Starta när START klickas på
+* För alltid:
+  * **Ändra x** med -13 **OM vänsterpil** är nedtryckt
+  * **Ändra x** med 13 **OM högerpil** är nedtryckt
+  * **Studsa vid kanten** efter den har rört sig, oavsett håll
 
-    ![image alt text](image_2.png)
+  ![image alt text](image_2.png)
 
 **Testa ditt projekt!** Klicka på START. Kan du röra raketen åt vänster och höger? Studsar den vid kanten?
 
