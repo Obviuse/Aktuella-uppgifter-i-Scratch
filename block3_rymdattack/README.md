@@ -28,7 +28,7 @@ Meningen med spelet är att styra rymdraketen åt vänster och höger för att s
 
 6. Ändra raketens **rotationsstil** så att den bara kan röra sig åt **vänster-höger**.
 
-7. Skapa ett skript som säger:  
+7. Skapa ett skript som säger:   
 * Starta när START klickas på
 * För alltid:
   * **Ändra x** med -13 **OM vänsterpil** är nedtryckt
